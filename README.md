@@ -16,6 +16,8 @@ added a line like the following using `crontab -e`:
 59 * * * * /usr/local/bin/grab_speed.py
 ```
 
+I also include a related bash script `grab_speed.sh` 
+
 ### License
 
 Released under the [MIT license](LICENSE.md).
